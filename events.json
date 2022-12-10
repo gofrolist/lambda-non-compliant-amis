@@ -1,0 +1,8 @@
+{
+    "region": "us-west-2",
+    "compliant_amis": [
+        "ami-0fc15bc5cb6f1dbd6",
+        "ami-0b2698dd30af10d0a"
+    ],
+    "email": "vasilenko.e@gmail.com"
+}
